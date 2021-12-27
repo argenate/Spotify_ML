@@ -1,5 +1,6 @@
 # Spotify_ML
 An attempt to use machine learning to fit Spotify audio features to Spotify "Popularity" index.
+See the Spotify_ML.pdf for a brief overview and the code for more in depth information.
 
 create_data.ipynb creates a csv of Spotify songs for late use (you need your own API key for this). <br>
 data_fitting.ipynb is the analysis and machine learning notebook. <br>
